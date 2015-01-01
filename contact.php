@@ -21,7 +21,7 @@ border-bottom-width: thin;
 border-left-width: thin 
 } 
 </STYLE>
-	<title>IBI SO</title>
+	<title>IBI SO ASSOCIATION</title>
 </head>
 
 
